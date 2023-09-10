@@ -27,7 +27,7 @@ local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/v3zxki
 
 ## Credits
 
-- [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent) - Creator for Fluent
+- [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent) - Creator of Fluent UI
 - [richie0866/remote-spy](https://github.com/richie0866/remote-spy) - Assets for the UI, some of the code
 - [violin-suzutsuki/LinoriaLib](https://github.com/violin-suzutsuki/LinoriaLib) - Code for most of the elements, save manager
 - [7kayoh/Acrylic](https://github.com/7kayoh/Acrylic) - Porting richie0866's acrylic module to lua
